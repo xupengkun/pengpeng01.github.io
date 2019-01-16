@@ -1,0 +1,56 @@
+#leftcontentcontainer , #blog_nav_sitehome , #blog-calendar , #comment_form>div, #sideBar{
+  display : none  !important;
+}
+
+#mainContent , #comment_form .commentbox_title{
+  width : 100%  !important;
+}
+.postSeparator{
+border-color:#2b2b2b;
+}
+.day:hover .postSeparator{
+border-color : #000
+}
+  #comment_form> #comment_nav , #comment_form> #comment_form_container {
+ display : block  !important;
+}
+.dayTitle:hover{
+background:#515151;
+
+}
+.dayTitle:hover a{
+color : #fff
+}
+.dayTitle{
+background:#2b2b2b
+}
+#divCommentShow{
+   padding: 20px;
+    border: 1px solid #dedede;
+    padding-top: 0;
+    margin-top: 20px;
+    background: #fff;
+}
+#comment_form_container #tbCommentBody{
+    width : 100%;
+}
+#blogTitle{
+display: none;
+}
+body{
+background : #fff;
+}
+#navigator{
+background:#2b2b2b;
+border:0 none;
+}
+#navList a:hover{
+
+color : #000;
+}
+.day:hover{
+border-color : #2b2b2b;
+}
+.postTitle a:hover{
+color : #2b2b2b
+}
